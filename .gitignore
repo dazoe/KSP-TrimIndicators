@@ -172,3 +172,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# KSP class libraries
+Assembly-CSharp.dll
+UnityEngine.dll
